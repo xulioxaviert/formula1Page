@@ -1,4 +1,6 @@
-const url = "http://localhost:8081/api/teams";
+//const url = "http://localhost:8081/api/teams";
+const url = "https://api-formula1.vercel.app/api/teams";
+
 const containerPilots = document.querySelector(".container_request");
 const containerMain = document.querySelector(".container_main");
 
